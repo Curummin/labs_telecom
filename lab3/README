@@ -1,0 +1,7 @@
+# Configurações
+
+Para que seja possivel gravar o audio instalar a biblioteca em C:
+
+`bash
+sudo apt install portaudio19-dev
+`
